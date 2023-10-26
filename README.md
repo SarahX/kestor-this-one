@@ -8,7 +8,7 @@ The goal of this project is to create a set of microframeworks for building non-
 - Fast and safe
 - User-friendly for webdevs not experienced with Rust and/or WebAsm
 - Built with simpler web apps in mind
-- Taking into account accessibility
+- Taking into account accessibility and promoting clean and effective UI/UX
 
 > [!NOTE]
 > While this project aims to minimize use of JS, JS should be used in any case that core functionality or accessibility is not available in HTML/CSS/WebAsm 
