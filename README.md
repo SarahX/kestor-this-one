@@ -1,4 +1,4 @@
-# Rust/WebAsm/HTML5/CSS 
+# Rust/WebAsm/HTML5/CSS (Rename this)
 
 ## Testing the limits of JS-minimal web apps
 
